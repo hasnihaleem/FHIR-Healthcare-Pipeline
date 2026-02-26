@@ -1,2 +1,2 @@
-# FIHR
+# FHIR
 Hospital Data Pipelines
